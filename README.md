@@ -1,4 +1,5 @@
-# Customer-Churn-Prediction
+# RetentionRadar 📡 (Helping detect churn risks)
+
 
 📖 Overview
 
